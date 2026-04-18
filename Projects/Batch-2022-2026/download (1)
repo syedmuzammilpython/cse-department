@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.db
-.git/
-*.log
-.DS_Store
-.env
